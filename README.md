@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DEFI(rust)
 - 💞️ I’m looking to collaborate on any DEFI projects
 - 📫 How to reach me Discord : Oakley#7229
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bad at CS2
 
 <!---
